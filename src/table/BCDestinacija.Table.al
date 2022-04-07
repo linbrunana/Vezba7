@@ -45,5 +45,5 @@ table 50250 "BC Destinacija"
         }
     }
 
-
+    //
 }
